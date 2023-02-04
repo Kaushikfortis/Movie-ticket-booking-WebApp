@@ -1,6 +1,6 @@
-# Hon No Eiga
+# Movie Ticket booking webapp
 
-### Authors: Pranav Tupe, Prathamesh Papade, Koushik Pandilwar
+### Authors:Koushik Pandilwar, Pranav Tupe, Prathamesh Papade
 
 ### About
 
